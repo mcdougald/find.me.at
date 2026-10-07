@@ -7,9 +7,9 @@
 
 # find.me.at
 
-Every place to find Trevor McDougald online, in one link hub.
+Every place to find me online, in one link hub.
 
-find.me.at is a self-hosted social directory: one card per place Trevor publishes, ships code, and hangs out online, from GitHub and GitLab to writing, design, and social profiles. It is a small static site that states its identity claims openly, so they can be verified from the other end.
+find.me.at is a self-hosted social directory: one card per place I publish, ship code, and hang out online, from GitHub and GitLab to writing, design, and social profiles. It is a small static site that states its identity claims openly, so they can be verified from the other end.
 
 ## Features
 
@@ -30,7 +30,7 @@ find.me.at is a self-hosted social directory: one card per place Trevor publishe
 
 ## Part of the me.at family
 
-find.me.at is one of the [`*.me.at`](https://me.at) apps by Trevor McDougald. They share one design system, account, and app shell. Development happens in a private monorepo; this repository is the project's public-facing home.
+find.me.at is one of my [`*.me.at`](https://me.at) apps. They share one design system, account, and app shell. Development happens in a private monorepo; this repository is the project's public-facing home.
 
 ## License
 
