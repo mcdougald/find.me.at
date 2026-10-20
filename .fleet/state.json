@@ -2,7 +2,7 @@
   "domain": "find.me.at",
   "network": "me.at",
   "generator": "@repo/app-shell/repo-fleet",
-  "contentHash": "1733106c90c08b498d0726b3df55f75c10fda5cd581a01db1de4d71504e9e307",
+  "contentHash": "749ac755d6ac6591be4ec1e470f8565dc32ed84333144cc295b93bf40008bdca",
   "lastSyncedAt": "2026-10-20",
   "paths": [
     ".github/CODEOWNERS",
